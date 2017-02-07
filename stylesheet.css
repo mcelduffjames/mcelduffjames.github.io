@@ -1,14 +1,12 @@
-/*
-	James McElduff
-	Comp20 HW#1
-*/
-
 body {
 	background-color: #e0e0e0;
-	/*background-image: url("giftest.gif"); */
 	font-family: "Book Antiqua", "Georgia", times, serif;
 	font-size: 16px;
 	color: black;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 1%;
+	margin-bottom: 5%;
 }
 
 h1 {
@@ -31,7 +29,7 @@ a:link {
 a:hover {
 	color: red;
 	text-decoration: none;
-}
+}	
 
 .centeredtext {
 	text-align: center;
